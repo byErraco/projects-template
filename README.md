@@ -7,7 +7,6 @@ Some important libraries used in this project are Express, Mongoose (Typegoose),
 # Development
 
 ```
-git clone https://github.com/fazt/mern-zustand-auth
 npm i
 npm run dev # backend
 
